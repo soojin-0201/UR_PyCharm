@@ -1,1 +1,1 @@
-hehehehe
+해당 문서는 https://github.com/SintefManufacturing/python-urx 을 기반으로 제작한 내용 입니다.
